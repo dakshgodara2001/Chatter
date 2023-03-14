@@ -2,6 +2,13 @@
 
 Chatter is an Android application for social media messaging that allows users to send text and image messages to each other and connect with other users.
 
+
+<p >
+  <img src="https://github.com/dakshgodara2001/Chatter/blob/main/images/Screen%20Shot%202023-03-14%20at%2011.36.36%20PM.png" height=500>
+  <img src="https://github.com/dakshgodara2001/Chatter/blob/main/images/Screen%20Shot%202023-03-14%20at%2011.39.12%20PM.png" height=500>
+</p>
+
+
 ## Features
 
 - User authentication and registration
@@ -15,10 +22,7 @@ Chatter is an Android application for social media messaging that allows users t
 - Sign up and log in to your account
 - Like and reply to tweets
 
-<p >
-  <img src="https://github.com/dakshgodara2001/Chatter/blob/main/images/Screen%20Shot%202023-03-14%20at%2011.36.36%20PM.png" height=500>
-  <img src="https://github.com/dakshgodara2001/Chatter/blob/main/images/Screen%20Shot%202023-03-14%20at%2011.39.12%20PM.png" height=500>
-</p>
+
 
 ### A sample post:
 
