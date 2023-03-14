@@ -1,6 +1,6 @@
-drop database twitter;
-create database twitter;
-use twitter;
+drop database chatter;
+create database chatter;
+use chatter;
 
 create table login (
 user_id int  AUTO_INCREMENT PRIMARY KEY,
