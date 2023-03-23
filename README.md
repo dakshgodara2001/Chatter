@@ -17,9 +17,7 @@ Chatter is an Android social networking application that allows users to post te
 - Follow and unfollow other users
 - Search for tweets and users
 - User profile editing
-- Follow and unfollow other users
 - Timeline view of tweets from followed users
-- Sign up and log in to your account
 - Like and reply to tweets
 
 
