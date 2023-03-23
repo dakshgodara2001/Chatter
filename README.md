@@ -1,6 +1,6 @@
 # Chatter
 
-Chatter is an Android application for social media messaging that allows users to post text and image messages to each other and connect with other users.
+Chatter is an Android social networking application that allows users to post text and image messages and connect with other users.
 
 
 <p >
